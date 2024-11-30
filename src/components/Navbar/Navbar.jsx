@@ -7,7 +7,7 @@ export const Navbar = () =>{
     <nav className={styles.navbar}>
             <a className={styles.title} href="/">Portfolio</a>
             <div className={styles.menu}>
-                <img className={styles.menuBtn} src={getImageUrl("/nav/menuIcon.png")} alt="menu-button"/>
+                <img className={styles.menuBtn} src={getImageUrl("nav/menuIcon.png")} alt="menu-button"/>
                 <ul className={styles.menuItems}>
                     <li>
                         <a href="#about">About</a>
