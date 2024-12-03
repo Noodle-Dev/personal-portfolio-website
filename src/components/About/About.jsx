@@ -10,29 +10,29 @@ export const About = () =>{
             <img src="assets/about/aboutImage.png" alt="Noodle sitting on a laptop" className={styles.aboutImage} />
             <ul className={styles.aboutItems}>
                 <li className={styles.aboutItem}>
-                    <img src="assets/about/cursorIcon.png" alt="Cursor Icon"/>
+                    <img src="assets/about/gameIcon.png" alt="Cursor Icon"/>
                     <div className={styles.aboutItemText}>
                         <h3>Game Developer</h3>
                         <p>
-                            I'm a game developer with more thatn 5 years of experience
+                            I'm a game developer since 2020.
                         </p>
                     </div>
                 </li>
                 <li className={styles.aboutItem}>
-                    <img src="assets/about/serverIcon.png" alt="server Icon"/>
+                    <img src="assets/about/cursorIcon.png" alt="server Icon"/>
                     <div className={styles.aboutItemText}>
-                        <h3>Game Developer</h3>
+                        <h3>Ilustrator</h3>
                         <p>
-                            I'm a game developer with more thatn 5 years of experience
+                            Idk I like drawing shit
                         </p>
                     </div>
                 </li>
                 <li className={styles.aboutItem}>
-                    <img src="assets/about/cursorIcon.png" alt="Cursor Icon"/>
+                    <img src="assets/about/webIcon.png" alt="Cursor Icon"/>
                     <div className={styles.aboutItemText}>
-                        <h3>Game Developer</h3>
+                        <h3>Web developer</h3>
                         <p>
-                            I'm a game developer with more thatn 5 years of experience
+                            Beginner web developer
                         </p>
                     </div>
                 </li>
