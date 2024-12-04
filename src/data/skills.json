@@ -1,19 +1,35 @@
 [
     {
         "title": "Csharp",
-        "imageSrc" : "skills/Csharp.png"
+        "imageSrc" : "/assets/skills/Csharp.png"
     },
     {
-        "title": "Csharp",
-        "imageSrc" : "skills/Csharp.png"
+        "title": "Unity",
+        "imageSrc" : "/assets/skills/unity.png"
     },
     {
-        "title": "Csharp",
-        "imageSrc" : "skills/Csharp.png"
+        "title": "Godot",
+        "imageSrc" : "/assets/skills/godot.png"
     },
     {
-        "title": "Csharp",
-        "imageSrc" : "skills/Csharp.png"
+        "title": "Python",
+        "imageSrc" : "/assets/skills/python.png"
+    },
+    {
+        "title": "HTML",
+        "imageSrc" : "/assets/skills/html.png"
+    },
+    {
+        "title": "CSS",
+        "imageSrc" : "/assets/skills/css.png"
+    },
+    {
+        "title": "JavaScript",
+        "imageSrc" : "/assets/skills/javascript.png"
+    },
+    {
+        "title": "React.js",
+        "imageSrc" : "/assets/skills/react.png"
     }
     
 ]
