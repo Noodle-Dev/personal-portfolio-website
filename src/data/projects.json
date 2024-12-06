@@ -1,9 +1,9 @@
 [
     {
-        "title" : "Cozy Twinkie",
-        "imageSrc" : "/assets/projects/tw.png",
-        "description" : "IT'S PORN, DO NOT CLICK",
-        "skills" : ["Godot", "GDscript"],
+        "title" : "Tiramisu",
+        "imageSrc" : "/assets/projects/tiramisuProject.png",
+        "description" : "Open source Pixel Art software",
+        "skills" : ["Python"],
         "demo" : "itch.io/cozy-twinkie",
         "source" : "none"
     }
